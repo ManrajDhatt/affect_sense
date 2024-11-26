@@ -1,6 +1,7 @@
-#AFfectSEnse
-##Multimodal Emotion Recognition Application
-![](Screenshot 2024-11-23 212725.png)
+# AFfectSense
+## Multimodal Emotion Recognition Application
+
+![affectsense](Screenshot 2024-11-23 212725.png)
 Emotion recognition is essential for building intelligent systems that interact naturally and adaptively with users.
 Applications in fields like healthcare, customer service, and personal 
 virtual assistants benefit from accurately detecting emotions, as this helps 
